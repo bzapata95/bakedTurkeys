@@ -1,0 +1,70 @@
+{
+  "entregas": [
+    {
+      "nombre": "Primer platillo",
+      "recoje": "",
+      "precio": "12",
+      "adelanto": "12",
+      "descripcion": "",
+      "cancelado": true,
+      "entregado": true,
+      "salio": true,
+      "id": 1
+    },
+    {
+      "nombre": "Segundo platillo",
+      "recoje": "",
+      "precio": "12",
+      "adelanto": "12",
+      "descripcion": "",
+      "cancelado": true,
+      "entregado": true,
+      "salio": true,
+      "id": 2
+    },
+    {
+      "nombre": "terce platillo ",
+      "recoje": "",
+      "precio": "12",
+      "adelanto": "12",
+      "descripcion": "",
+      "cancelado": true,
+      "entregado": true,
+      "salio": true,
+      "id": 3
+    },
+    {
+      "nombre": "Cuarto registro",
+      "recoje": "",
+      "precio": "18",
+      "adelanto": 0,
+      "descripcion": "",
+      "cancelado": false,
+      "entregado": false,
+      "salio": false,
+      "id": 4
+    },
+    {
+      "nombre": "Quinto",
+      "recoje": "",
+      "precio": "50",
+      "adelanto": "50",
+      "descripcion": "",
+      "cancelado": true,
+      "entregado": true,
+      "salio": true,
+      "id": 5
+    },
+    {
+      "nombre": "Sexto",
+      "recoje": "",
+      "precio": "40",
+      "adelanto": 0,
+      "descripcion": "",
+      "cancelado": false,
+      "entregado": false,
+      "salio": true,
+      "id": 6
+    }
+  ]
+}

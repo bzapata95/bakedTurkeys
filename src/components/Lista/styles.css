@@ -1,0 +1,12 @@
+div.custom-class-2 {
+  background-color: rgb(252, 72, 80);
+  border-radius: 5px;
+  color: #000;
+  width: 110px !important;
+}
+
+div.rc-swipeout div.rc-swipeout-content {
+  border-radius: 5px !important;
+  border: none;
+  background-color: transparent;
+}
