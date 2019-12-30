@@ -32,4 +32,4 @@ obviously install reactJS `yarn create react-app name-proyect`
 
 ### Captures
 
-![Image of application](public/captures/1.jpeg){width="100px"}.
+![Image of application](public/captures/1.jpeg | width=100)
