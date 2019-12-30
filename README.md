@@ -31,5 +31,4 @@ obviously install reactJS `yarn create react-app name-proyect`
 - Search
 
 ### Captures
-<img src="public/captures/1.jpeg" width="40%">.
-![Image of application](public/captures/1.jpeg | width=100)
+<img src="public/captures/1.jpeg" width="40%">
