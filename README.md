@@ -1,6 +1,6 @@
 # Application of baked turkeys
 
-- Working with json-server and reactjs, this application is for movile
+- Working with json-server and reactjs, this application is for mobile
 - This application needs English translation
 
 ### Implement
